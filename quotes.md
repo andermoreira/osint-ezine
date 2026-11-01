@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 
 
+_The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge._
+
+_\~Daniel J. Boorstin, American historian._
+
+***
+
 _The goal is to turn data into information, and information into insight._
 
 _\~Carly Fiorina, American businesswoman and politician._

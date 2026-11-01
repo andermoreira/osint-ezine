@@ -4,6 +4,7 @@
 
 * [🥷 eZines](README.md)
 * [2026](osint-ezine/2026/README.md)
+  * [10 - October 2026](osint-ezine/2026/10-october-2026.md)
   * [09 - September 2026](osint-ezine/2026/09-september-2026.md)
   * [08 - August 2026](osint-ezine/2026/08-august-2026.md)
   * [07 - July 2026](osint-ezine/2026/07-july-2026.md)
